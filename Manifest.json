@@ -1,0 +1,24 @@
+{
+    "Name": "SteamPower",
+    "Summary": "SteamPower",
+    "Description": "SteamPower",
+    "Website": "Devotus.github.io/TUG-SteamPower",
+    "Icon": "",
+    "Active": false,
+    "TargetGame": {
+        "Name": "TUG"
+    },
+    "Authors": [
+        {
+            "GitUsername": "JohnyCilohokla",
+            "NkUsername": "JohnyCilohokla",
+            "Email": "johnycilohokla@gmail.com"
+        }
+    ],
+    "Dependencies": [],
+    "Categories": [
+        "Automation",
+        "Technology",
+        "Generation"
+    ]
+}
