@@ -23,7 +23,7 @@
   ],
   "Media": [],
   "Script": {
-    "File": "",
-    "Class": ""
+    "File": "Scripts/SteamPower.lua",
+    "Class": "SteamPower"
   }
 }
